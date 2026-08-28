@@ -10,7 +10,7 @@ from datetime import datetime
 
 TOKEN = "8989518912:AAFLCiGdFZgAfCJm2wTh_bvViymlpmqNBxU"  
 ADMIN_ID = 7815449425  
-MY_WALLET_ADDRESS = "UQBgmUWZ7Vx0xKVV1TizlVhGjbe_pkfegS0gtj8m71G4KTg"
+MY_WALLET_ADDRESS = "UQBgmUWZ7Vx0xKVVllTizlVhGjbe_pkfegS0gtj8m71G4KTg"
 SHARE_PRICE = 6.50
 
 bot = Bot(token=TOKEN)
